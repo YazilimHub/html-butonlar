@@ -1,4 +1,5 @@
-
+<body>
+	
 <html>
 <head><title>Butonlar</title>
 <style>
@@ -26,7 +27,7 @@
 .vars:hover {background-color: #ddd;}
 </style>
 </head>
-<body>
+
 
 	<h1>Uyarı Butonları</h1>
 
